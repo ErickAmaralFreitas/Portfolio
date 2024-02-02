@@ -2,8 +2,9 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(to bottom, #ffffff 30%, #6F47E6, #A347E6, #D948E8);
+    background-image: linear-gradient(to bottom, #ffffff 35%, #A347E6, #D948E8);
     background-attachment: fixed;
+    /* #4753E6, #6F47E6, #A347E6, #4785E6, #D948E8 */ 
 }
 
 .container {
