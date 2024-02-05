@@ -7,10 +7,6 @@ body {
     /* #4753E6, #6F47E6, #A347E6, #4785E6, #D948E8 */ 
 }
 
-.container {
-    width: 80%;
-    margin: 0 auto;
-}
 
 header {
     background-color: #333;
@@ -19,17 +15,29 @@ header {
     text-align: center;
 }
 
+#cabeçalho {
+    width: 80%;
+    margin: 0 auto;
+
+}
+
 section {
     padding: 40px 0;
 }
 
 #portfolio .project {
     margin-bottom: 20px;
+    display: inline-block;
 }
 
 #portfolio img {
     max-width: 100%;
     height: auto;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
 }
 
 footer {
