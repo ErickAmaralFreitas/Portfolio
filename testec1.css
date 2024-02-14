@@ -37,6 +37,7 @@ h3 {
 #portfolio .project {
     margin-bottom: 20px;
     display: inline-block;
+    margin-right: 90px;
 }
 
 #portfolio img {
