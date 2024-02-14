@@ -9,11 +9,13 @@ body {
 
 
 header {
-    background-color: #333;
-    color: #fff;
-    padding: 5px 0;
+    background-color: #d848e85b ;
+    color: #A347E6;
+    padding: 10px;
     text-align: center;
     height: 60px;
+    font-family: Sigmar One;
+    font-size: large;
 }
 
 #cabeçalho {
@@ -26,6 +28,12 @@ section {
     padding: 40px 0;
 }
 
+h2 {
+    font-family: Sigmar One;
+}
+h3 {
+    font-family: Sigmar One;
+}
 #portfolio .project {
     margin-bottom: 20px;
     display: inline-block;
