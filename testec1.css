@@ -51,6 +51,22 @@ h3 {
     height: auto;
 }
 
+#about {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #A347E6;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.sobre {
+    background-color: #d848e85e ;
+}
+
 #contact {
     margin: auto;
     width: 90%;
