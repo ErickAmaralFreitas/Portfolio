@@ -51,9 +51,9 @@ h3 {
     height: auto;
 }
 
-.container {
-    width: 80%;
-    margin: 0 auto;
+#contact {
+    margin: auto;
+    width: 90%;
 }
 
 footer {
