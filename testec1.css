@@ -24,6 +24,12 @@ header {
 
 }
 
+nav {
+    font-family: Sigmar One;
+    background-color: #6F47E6;
+    padding-top: 3px;
+}
+
 section {
     padding: 40px 0;
 }
