@@ -37,19 +37,80 @@ section {
 h2 {
     font-family: Sigmar One;
 }
+
 h3 {
     font-family: Sigmar One;
 }
-#portfolio .project {
-    margin-bottom: 20px;
-    display: inline-block;
-    margin-right: 90px;
+
+p {
+    font-family: Sigmar One;
 }
 
 #portfolio img {
-    max-width: 100%;
-    height: auto;
+    width: 80%;
+    margin: 0 auto;
 }
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    color: #A347E6;
+}
+
+/* !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
+#pics {
+    display: inline-block;
+    
+}
+
+.ft {
+    width: 50%;
+    display: inline-block;
+    position:relative;
+    left: 300px;
+    top: 500px;
+}
+
+.photo {
+    width: 50%;
+    display: inline-block;
+    position:relative;
+    top: 25%;
+    left: 1100px;
+}
+
+#conf {
+    height:25vh;
+    width: 90vw;
+    background-color: #A347E6;
+    border-radius: 20px;
+    margin-left: 80px;
+}
+
+.project {
+    margin-bottom: 20px;
+    margin-right: 90px;
+    margin-left: 40px;
+    background-color: #d848e85e;
+    display: inline-block;
+    width: 40%;
+    height: 25vh;
+}
+
+.uso {
+    margin-bottom: 20px;
+    margin-right: 90px;
+    margin-left: 40px;
+    background-color: #d848e85e;
+    display: inline-block;
+    height: 25vh;
+    width: 40%;
+    position: absolute;
+}
+
+/*  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
 
 #about {
     width: 80%;
