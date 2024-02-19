@@ -1,8 +1,8 @@
 body {
-    font-family: Sigmar One;
+    font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
-    background-image: linear-gradient(to bottom, #ffffff 35%, #A347E6, #D948E8);
+    background-image: linear-gradient(to bottom, #ffffff 35%, #D948E8, #A347E6);
     background-attachment: fixed;
     /* #4753E6, #6F47E6, #A347E6, #4785E6, #D948E8 */ 
 }
@@ -92,25 +92,26 @@ p {
     margin-bottom: 20px;
     margin-right: 90px;
     margin-left: 40px;
-    background-color: #d848e85e;
+    background-color: #A347E6;
     display: inline-block;
     width: 40%;
     height: 25vh;
+    color: #d848e8;
 }
 
 .uso {
     margin-bottom: 20px;
     margin-right: 90px;
     margin-left: 40px;
-    background-color: #d848e85e;
+    background-color: #A347E6;
     display: inline-block;
     height: 25vh;
     width: 40%;
     position: absolute;
+    color: #d848e8;
 }
 
 /*  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
-
 
 #about {
     width: 80%;
@@ -125,7 +126,8 @@ p {
 }
 
 .sobre {
-    background-color: #d848e85e ;
+    color: #d848e8;
+    background-color: #A347E6;
 }
 
 #contact {
@@ -137,7 +139,7 @@ footer {
     background-color: #333;
     color: #fff;
     text-align: center;
-    padding: 1px 0;
+    padding: 1px;
     position: fixed;
     bottom: 0;
     width: 100%;
